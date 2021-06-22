@@ -8,7 +8,7 @@ Program KIHAJAR ada 3 yaitu:
 
 # Routes
 
-Disini ada 4 route yang saya buat, berikut adalah route dan fungsi serta query yang dibutuhkan.
+Disini ada 5 route yang saya buat, berikut adalah route dan fungsi serta query yang dibutuhkan.
 
 - `/` (Route awal, yaitu halaman awal dari app)
 - `/provinces` (Route yang berfungsi untuk mendapatkan daftar provinsi beserta jumlah siswa dan timnya) | Query yang ada disini bisa diisi adalah `identifier` untuk mencari spesifik provinsi dan nama. Contoh: `?identifier=Sulawesi` dan `?identifier=01000`
